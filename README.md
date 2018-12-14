@@ -1,6 +1,6 @@
 Este REPO contiene:
-1) Proyecto de NetBeans (Apache NetBeans IDE 9.0) . Actualización 14/12/2018
-2) Script (dump) para la creación de base de datos SQL (MySQL Workbench). Actualización 14/12/2018
+1) Proyecto de NetBeansApache IDE 9.0 . Actualización 14/12/2018
+2) Script (./src/dumpSQL) para la creación de base de datos MySQL Workbench. Actualización 14/12/2018
 
 TODO LIST de este REPO (to do list):
 1) Mapeo ORM con Hibernate. Actualización 14/12/2018
